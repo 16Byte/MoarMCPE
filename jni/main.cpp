@@ -3,7 +3,7 @@
 #include <android/log.h>
 #include <stdlib.h>
 #include <Substrate.h>
-#include <mcpe / Common.h>
+#include <mcpe/Common.h>
 
 #define LOG_TAG "moarmc"
 
