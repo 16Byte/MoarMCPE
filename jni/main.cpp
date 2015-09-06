@@ -11,7 +11,7 @@
 
 JNIEXPORT jint JNI_OnLoad(JavaVM* vm, void* reserved) {
 
-	MSHookFunction((void*)&Common::getGameVersionString, (void*)&Common_getGameVersionString_hook, (void**)&Common_getGameVersionString_real);
+	
 
 	
 
